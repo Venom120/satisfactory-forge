@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="MIT"
+issueTrackerURL="https://github.com/yourusername/satisfactory-forge/issues"
+
+[[mods]]
+modId="satisfactoryforge"
+version="1.0.0"
+displayName="Satisfactory Forge"
+description='''A Minecraft Forge modpack inspired by Satisfactory, focused on automation and factory building.'''
+authors="Yatharth"
