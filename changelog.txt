@@ -1,8 +1,6 @@
 1.21.1 Changelog
 52.1
 ====
- - 52.1.1 Add Pumpkin Block and Item Tags (#10511)
-          Backport of #10482 to 1.21.1
  - 52.1.0 1.21.1 RB 1
           https://forums.minecraftforge.net/topic/154391-forge-521-minecraft-1211/
 
